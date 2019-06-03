@@ -1,31 +1,118 @@
 {
-  "posts": [
-    {
-      "id":90,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  [
+                {
+                  nameProject:'Programa de',
+                  subordinates:[
+                                {name:"Heber Quequejana Llamoc",
+                                  photo:"",
+                                  position:{
+                                            name:"Analista Programador"
+                                  },
+                                  finish_work:"2019-08-26T00:00:00.000Z",
+                                },
+                                {name:"johan",
+                                  photo:"",
+                                  position:{
+                                            name:"desarrollador"
+                                  },
+                                  finish_work:"2019-08-26T00:00:00.000Z",
+                                }
+                              ]
+                },
+                {
+                  nameProject:'Programa de ',
+                  subordinates:[
+                                {name:"jeancarlos2",
+                                  photo:"",
+                                  position:{
+                                            name:"desarrollador"
+                                  },
+                                  finish_work:"2019-08-26T00:00:00.000Z",
+                                },
+                                {name:"johan",
+                                  photo:"",
+                                  position:{
+                                            name:"desarrollador"
+                                  },
+                                  finish_work:"2019-08-26T00:00:00.000Z",
+                                }
+                              ]
+                },
+                {
+                  nameProject:'Programa de ',
+                  subordinates:[
+                                {name:"jeancarlos3",
+                                  photo:"",
+                                  position:{
+                                            name:"desarrollador"
+                                  },
+                                  finish_work:"2019-08-26T00:00:00.000Z",
+                                },
+                                {name:"johan",
+                                  photo:"",
+                                  position:{
+                                            name:"desarrollador"
+                                  },
+                                  finish_work:"2019-08-26T00:00:00.000Z",
+                                }
+                              ]
+                },
+                {
+                  nameProject:'Programa de ',
+                  subordinates:[
+                                {name:"jeancarlos4",
+                                  photo:"",
+                                  position:{
+                                            name:"desarrollador"
+                                  },
+                                  finish_work:"2019-08-26T00:00:00.000Z",
+                                },
+                                {name:"johan",
+                                  photo:"",
+                                  position:{
+                                            name:"desarrollador"
+                                  },
+                                  finish_work:"2019-08-26T00:00:00.000Z",
+                                }
+                              ]
+                },
+                {
+                  nameProject:'Programa de ',
+                  subordinates:[
+                                {name:"jeancarlos5",
+                                  photo:"",
+                                  position:{
+                                            name:"desarrollador"
+                                  },
+                                  finish_work:"2019-08-26T00:00:00.000Z",
+                                },
+                                {name:"johan",
+                                  photo:"",
+                                  position:{
+                                            name:"desarrollador"
+                                  },
+                                  finish_work:"2019-08-26T00:00:00.000Z",
+                                }
+                              ]
+                },
+                {
+                  nameProject:'Programa de ',
+                  subordinates:[
+                                {name:"jeancarlos6",
+                                  photo:"",
+                                  position:{
+                                            name:"desarrollador"
+                                  },
+                                  finish_work:"2019-08-26T00:00:00.000Z",
+                                },
+                                {name:"johan",
+                                  photo:"",
+                                  position:{
+                                            name:"desarrollador"
+                                  },
+                                  finish_work:"2019-08-26T00:00:00.000Z",
+                                }
+                              ]
+                },
+                ]
 }
